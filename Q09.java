@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Q9 {
+public class Q09 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int treasureColumn = scanner.nextInt() - 1;
